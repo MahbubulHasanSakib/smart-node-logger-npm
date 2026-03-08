@@ -4,7 +4,7 @@ Lightweight production-ready logger for Node.js.
 
 ## Install
 
-npm install smart-node-logger
+npm install @mhsakib29/smart-node-logger
 
 ## Usage
 
