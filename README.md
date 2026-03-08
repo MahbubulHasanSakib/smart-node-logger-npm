@@ -8,7 +8,7 @@ npm install smart-node-logger
 
 ## Usage
 
-const logger = require("smart-node-logger");
+const logger = require("@mhsakib29/smart-node-logger");
 
 logger.info("App started");
 logger.success("Database connected");
