@@ -1,6 +1,6 @@
 {
   "name": "@mhsakib29/smart-node-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight production-ready logger for Node.js",
   "main": "index.js",
   "keywords": [
@@ -15,7 +15,7 @@
     "access": "public"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/MahbubulHasanSakib/smart-node-logger-npm"
-}
+    "type": "git",
+    "url": "https://github.com/MahbubulHasanSakib/smart-node-logger-npm"
+  }
 }
