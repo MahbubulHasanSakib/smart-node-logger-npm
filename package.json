@@ -1,6 +1,6 @@
 {
   "name": "@mhsakib29/smart-node-logger",
-  "version": "1.0.5",
+  "version": "1.0.3",
   "description": "Lightweight production-ready logger for Node.js",
   "main": "index.js",
   "keywords": [
