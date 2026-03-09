@@ -47,7 +47,7 @@ logger.warn("Deprecated API endpoint used");
 logger.error("Database connection failed");
 
 // Debug messages (disabled in production)
-logger.debug("Request payload:", requestData);
+logger.debug("Debugging info");
 ```
 
 ### Express.js Integration
